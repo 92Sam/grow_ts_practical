@@ -1,4 +1,4 @@
-import ChildClass from './src/service/child_class'
+import ChildClass from '../grow_ts_practical/src/service/child_class'
 
 const bootrap = async () => {
   const pokeClass = new ChildClass()
@@ -7,5 +7,3 @@ const bootrap = async () => {
 }
 
 bootrap()
-
-//ingrogger
